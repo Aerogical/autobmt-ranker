@@ -12,10 +12,10 @@ const API_SECRET = process.env.API_SECRET;
 const ROBLOX_COOKIE = process.env.ROBLOX_COOKIE;
 
 const rankGamepassMap = {
-  3604594447: 179, // Private
-  3604594493: 182, // Sergeant
-  3604594523: 184, // Sergeant First Class
-  3604594566: 189, // First Lieutenant
+  1874419866: 179, // Private
+  1874473770: 182, // Sergeant
+  1876179765: 184, // Sergeant First Class
+  1876479845: 189, // First Lieutenant
 };
 
 async function start() {
